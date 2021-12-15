@@ -15,13 +15,13 @@
 
 
 
-Clustering with Gaussian Mixture Model
+Clustering with Gaussian Mixture Model, [here](https://github.com/DarwinSaire/bayesian-methods-machine-learning/blob/main/week2/Coursera%20BMML%2C%20week%202.ipynb)
 
 <img src="img/gmm-model.png" alt="gmm-model" width="700">
 
 
 
-Conditional Variational Autoencoder (CVAE)
+Conditional Variational Autoencoder (CVAE), [here](https://github.com/DarwinSaire/bayesian-methods-machine-learning/blob/main/Week5/Coursera%20BMML%2C%20week%205.ipynb)
 
 - VAE
 
@@ -33,13 +33,13 @@ Conditional Variational Autoencoder (CVAE)
 
 
 
-Simple Regression Problem Fit by Gaussian Process
+Simple Regression Problem Fit by Gaussian Process, [here](https://github.com/DarwinSaire/bayesian-methods-machine-learning/blob/main/Week6/Coursera%20BMML%2C%20week%206.ipynb)
 
 <img src="img/gaussian-processes.png" alt="gaussian-processes" width="800">
 
 
 
-Finding the Suspect Project (Facial composits)
+Finding the Suspect Project (Facial composits), [here](https://github.com/DarwinSaire/bayesian-methods-machine-learning/blob/main/Coursera-BMML-Final-project/Coursera%20BMML%2C%20Final%20project.ipynb)
 
 - Random sampling faces
 
